@@ -12,9 +12,19 @@ The project will also include writing documentation and runbooks covering the op
 
   The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
- ### Installation
+## Application Dependencies
 
- Provision the necessary AWS services needed for running the application:
+![app-dep](https://github.com/ishanlal/udagram/blob/main/documentation/app-dependencies.md)
+
+## Infrastructure Description
+![infra](https://github.com/ishanlal/udagram/blob/main/documentation/infrastructure-description.md)
+
+## Pipeline Process
+![pipeline](https://github.com/ishanlal/udagram/blob/main/documentation/pipeline-process.md)
+
+### Installation
+
+  Provision the necessary AWS services needed for running the application:
 
  1. In AWS, provision a publicly available RDS database running Postgres.
  2. In AWS, provision a s3 bucket for hosting the uploaded files.
@@ -22,7 +32,7 @@ The project will also include writing documentation and runbooks covering the op
  4. From the root of the repo, navigate udagram-api folder `cd starter/udagram-api` to install the node_modules `npm install -f .`. After installation is done start the api in dev mode with `npm run dev`.
  5. Without closing the terminal in step 1, navigate to the udagram-frontend `cd starter/udagram-frontend` to install the node_modules `npm install -f`. After installation is done start the api in dev mode with `npm run start`.
 
- ### Testing
+### Testing
 
  This project contains two different test suite: unit tests and End-To-End tests(e2e). Follow these steps to run the tests.
 
@@ -32,15 +42,15 @@ The project will also include writing documentation and runbooks covering the op
 
  There are no Unit test on the back-end
 
- ### Unit Tests:
+### Unit Tests:
 
  Unit tests are using the Jasmine Framework.
 
- ### End to End Tests:
+### End to End Tests:
 
  The e2e tests are using Protractor and Jasmine.
 
- ## Built With
+### Built With
 
  - [Angular](https://angular.io/) - Single Page Application Framework
  - [Node](https://nodejs.org) - Javascript Runtime
