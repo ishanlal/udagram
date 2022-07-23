@@ -4,6 +4,11 @@
 * The pipeline triggers a successful build on each push to the main branch.
 * The pipeline successfully automates the install, build and deploy processes for the app.
 
+## Pipeline Overview:
+
+* CircleCI Pipeline Dashboard
+![pipeline_overview](../screenshots/CircleCI_pipeline_overview.png)
+
 ## Screenshots:
 
 * CircleCI Pipeline Dashboard
