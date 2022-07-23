@@ -6,6 +6,15 @@
 * AWS RDS PostgreSQL Database
 ![aws_rds](../screenshots/AWS_RDS.png)
 
+* AWS S3 ARN
+![aws_s3](../screenshots/AWS_S3_ARN.png)
+
+* AWS S3 Buckets
+![aws_s3](../screenshots/AWS_S3_Buckets.png)
+
+* AWS S3 Static Web Hosting Link
+![aws_s3](../screenshots/AWS_S3_Static_website_hosting_link.png)
+
 * AWS Elastic Beanstalk Applications
 ![aws_eb](../screenshots/EB_Applications.png)
 
