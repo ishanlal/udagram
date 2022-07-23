@@ -14,7 +14,7 @@ The project will also include writing documentation and runbooks covering the op
 
 ## Application Dependencies
 
-![app-dep](https://github.com/ishanlal/udagram/blob/main/documentation/app-dependencies.md)
+[app-dep](https://github.com/ishanlal/udagram/blob/main/documentation/app-dependencies.md)
 
 ## Infrastructure Description
 ![infra](https://github.com/ishanlal/udagram/blob/main/documentation/infrastructure-description.md)
