@@ -12,6 +12,10 @@ The project will also include writing documentation and runbooks covering the op
 
   The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
+## App Link
+
+  App accessible at: http://randomudacity.s3-website-us-east-1.amazonaws.com/
+
 ## Application Dependencies
 
 [App-Dependencies](https://github.com/ishanlal/udagram/blob/main/documentation/app-dependencies.md)
