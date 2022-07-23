@@ -14,13 +14,13 @@ The project will also include writing documentation and runbooks covering the op
 
 ## Application Dependencies
 
-[app-dep](https://github.com/ishanlal/udagram/blob/main/documentation/app-dependencies.md)
+[App-Dependencies](https://github.com/ishanlal/udagram/blob/main/documentation/app-dependencies.md)
 
 ## Infrastructure Description
-![infra](https://github.com/ishanlal/udagram/blob/main/documentation/infrastructure-description.md)
+[Infrastructure-Description](https://github.com/ishanlal/udagram/blob/main/documentation/infrastructure-description.md)
 
 ## Pipeline Process
-![pipeline](https://github.com/ishanlal/udagram/blob/main/documentation/pipeline-process.md)
+[Pipeline-Process](https://github.com/ishanlal/udagram/blob/main/documentation/pipeline-process.md)
 
 ### Installation
 
